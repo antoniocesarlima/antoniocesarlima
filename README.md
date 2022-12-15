@@ -2,7 +2,7 @@
 
 - Me chamo Antonio Cesar :fox_face:
 - Sou estudante de programação :technologist:
-- Estagiário da empresa Meteora :computer:
+- Técnico em Redes de Computadores :computer:
 - Tenho experiência com as linguagens Java, Javascript, HTML/CSS 
 
 ---
